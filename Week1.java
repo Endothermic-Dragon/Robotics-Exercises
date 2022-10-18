@@ -1,4 +1,4 @@
-// Access at https://replit.com/@debnathe/Robotics-Exercises-Week-1#Week1.java
+// Access at https://firewalledreplit.com/@debnathe/Robotics-Exercises
 
 public class Week1 {
   // Exercises with int
